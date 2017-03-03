@@ -56,8 +56,8 @@ const styles = StyleSheet.create({
   }
 });
 
-var region = "INSERTREGION";
-var identity_pool_id = "INSERTIDENTITYPOOLID";
+var region = "us-east-1";
+var identity_pool_id = "us-east-1:d051a50b-fa12-49b8-ab19-33e3edc30310";
 
 export default class example extends Component{
   constructor(props) {
